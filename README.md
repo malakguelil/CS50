@@ -1,1 +1,1 @@
-# CS50
+Hello! These are a few programs that i did as assignement for Haravrd's online CS course , and i wanted to keep them here so i can check them out later when i have more experience in programming and laugh at myself These codes are in C , Python and SQL .
